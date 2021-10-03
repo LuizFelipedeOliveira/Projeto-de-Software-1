@@ -9,4 +9,6 @@ Supermecado Online realiza a entregados produtos. </p>
 <img src="cenario_de_negocio_2.png"/>
 <h1>Diagrama de casos de uso</h1>
 <img src="casos_de_uso.png"/>
+<h1>Diagrama de casos de domínio</h1>
+<img src="casos_de_dominio.png"/>
 </div>
