@@ -10,5 +10,5 @@ Supermecado Online realiza a entregados produtos. </p>
 <h1>Diagrama de casos de uso</h1>
 <img src="casos_de_uso.png"/>
 <h1>Diagrama de casos de domínio</h1>
-<img src="casos_de_dominio.png"/>
+<img src="diagrama_de_dominio.png"/>
 </div>
